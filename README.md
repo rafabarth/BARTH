@@ -12,6 +12,7 @@ Todos os ficheiros da marca estão na pasta [`identidade-visual/`](identidade-vi
 | `simbolo/` | Estrela de oito pontas, órbita e símbolo completo, em SVG e PNG transparente (bordô, marfim e vinho) |
 | `pranchas/marca/` | Painel de identidade, logótipos, símbolo, paleta e tipografia |
 | `pranchas/papelaria/` | Cartão de visita (frente e verso), marca de água e capa de apresentação comercial |
+| `pranchas/facebook/` | Foto de capa (1640 × 624), foto de perfil e imagem de publicação (1200 × 630) |
 | `pranchas/instagram/` | Fotografia de perfil, capas de destaques, posts (1080 × 1350), Stories e capa de Reels (1080 × 1920) |
 | `pdf/` | Cartão de visita (85 × 55 mm) e capa de apresentação, prontos para impressão ou envio |
 | `fontes/` | Cormorant Garamond e Montserrat (licença SIL Open Font) |
